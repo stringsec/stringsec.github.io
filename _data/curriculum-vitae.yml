@@ -1,0 +1,5 @@
+- language: EN
+  link: \# # path to  cv example: ./assets/docs/cv_en.pdf
+
+- language: FR
+  link: \#
