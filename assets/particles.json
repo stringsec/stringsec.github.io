@@ -15,35 +15,7 @@
       "options": {
         "images": [
           {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg",
-            "type": "image/svg+xml"
-          },
-          {
-            "src": "https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg",
-            "type": "image/svg+xml"
-          },
-          {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg",
-            "type": "image/svg+xml"
-          },
-          {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg",
-            "type": "image/svg+xml"
-          },
-          {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg",
-            "type": "image/svg+xml"
-          },
-          {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg",
-            "type": "image/svg+xml"
-          },
-          {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg",
-            "type": "image/svg+xml"
-          },
-          {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg",
+            "src": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Plain_Disc_60%25_grey_or_30%25_black.svg",
             "type": "image/svg+xml"
           }
 
