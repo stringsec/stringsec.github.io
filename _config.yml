@@ -14,11 +14,11 @@ baseurl: ""
 ### LANDING PAGE ###
 
 # username: This will displayed on the landing page as your name.
-username: StringSec
+username: String
 
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Jekyll Theme
+typing_text: before attackers do
 
 # email: Your E-Mail address for the email button.
 email: email@example.com
@@ -27,11 +27,11 @@ email: email@example.com
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
 github_username: Stringsec
-codepen_username: exampleUser
-dev_username: exampleUser
+codepen_username: 
+dev_username: 
 linkedin_username: exampleUser
-twitter_username: exampleUser
-stack_overflow_user_id: 007
+twitter_username: thestringsec
+stack_overflow_user_id: 
 
 
 ### ABOUT ME SECTION ###
@@ -146,7 +146,7 @@ projects:
 # Set the id, if you want to track your website with Google Analytics
 # > set this to "", if you do not want to track with Google Analytics
 google-analytics:
- id: "UA-158757509-2"
+ id: ""
 
 ### END OF VALUES YOU SHOULD CHANGE ###
 
