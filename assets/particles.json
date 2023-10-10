@@ -15,7 +15,7 @@
       "options": {
         "images": [
           {
-            "src": "./img/dot.svg",
+            "src": "https://github.com/stringsec/stringsec.github.io/blob/master/assets/img/dot.svg",
             "type": "image/svg+xml"
           }
 
