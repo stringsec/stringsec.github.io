@@ -15,7 +15,7 @@
       "options": {
         "images": [
           {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Location_dot_grey.svg",
+            "src": "./img/dot.svg",
             "type": "image/svg+xml"
           }
 
