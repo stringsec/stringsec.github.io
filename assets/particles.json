@@ -15,7 +15,7 @@
       "options": {
         "images": [
           {
-            "src": "https://github.com/stringsec/stringsec.github.io/blob/master/assets/img/dot.svg",
+            "src": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Location_dot_grey.svg",
             "type": "image/svg+xml"
           }
 
@@ -23,11 +23,11 @@
       }
     },
     "opacity": {
-      "value": 0.8,
+      "value": 0.9,
       "random": false
     },
     "size": {
-      "value": 15,
+      "value": 10,
       "random": true
     },
     "line_linked": {
