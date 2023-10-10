@@ -15,7 +15,7 @@
       "options": {
         "images": [
           {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Plain_Disc_60%25_grey_or_30%25_black.svg",
+            "src": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Location_dot_grey.svg",
             "type": "image/svg+xml"
           }
 
@@ -27,7 +27,7 @@
       "random": false
     },
     "size": {
-      "value": 20,
+      "value": 15,
       "random": true
     },
     "line_linked": {
